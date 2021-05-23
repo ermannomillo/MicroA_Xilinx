@@ -1,5 +1,5 @@
-# Phylog Micro A 
-Automation oriented Xilinx XC2C64A dev board. 
+# 
+Phylog Micro A is an automation oriented Xilinx XC2C64A dev board. 
 
 The projects are made with Altium Designer 20.0.13
 
