@@ -1,5 +1,4 @@
-![alt text](https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microAlogo.gif?raw=true)
-<img src="https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microAlogo.gif" width="48">
+<img src="https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microAlogo.gif" width="1000">
 # 
 Phylog Micro A is an automation oriented Xilinx XC2C64A dev board. 
 
