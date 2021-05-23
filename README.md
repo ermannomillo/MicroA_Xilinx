@@ -1,4 +1,4 @@
-![alt text](https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microAlogo.gif?raw=true)
+![alt text](https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microAlogo.gif?raw=true){:height="50%" width="50%"}
 # 
 Phylog Micro A is an automation oriented Xilinx XC2C64A dev board. 
 
