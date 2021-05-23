@@ -1,5 +1,7 @@
-<img src="https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microAlogo.gif" width="750">
-# 
+<img src="https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microAlogo.gif" width="500">
+
+#
+
 Phylog Micro A is an automation oriented Xilinx XC2C64A dev board. 
 
 The projects are made with Altium Designer 20.0.13
