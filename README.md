@@ -7,6 +7,7 @@
 **Peripherals**
 * JTAG
 * 24 GPIO
+* 3 3.3V pin
 
 ![alt text](https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microA_trasparent.png?raw=true)
 
