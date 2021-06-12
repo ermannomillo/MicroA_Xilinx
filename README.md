@@ -7,7 +7,7 @@
 **Peripherals**
 * JTAG
 * 24 GPIO
-* 3 3.3V pin
+* 3 3.3V pins
 
 The project are made with Altium Designer 20.0.13
 
